@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2239-find-closest-number-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2239-find-closest-number-to-zero) |
 ## Greedy
@@ -43,8 +44,14 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
