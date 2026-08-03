@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0038-count-and-say) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Linked List
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
