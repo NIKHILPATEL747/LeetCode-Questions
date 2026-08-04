@@ -1,0 +1,18 @@
+class Solution {
+public:
+    vector<int> findMissingElements(vector<int>& nums) {
+        int mn = *min_element(nums.begin(), nums.end());
+        int mx = *max_element(nums.begin(), nums.end());
+        
+        unordered_set<int> s(nums.begin(), nums.end()); // fast lookup
+        vector<int> missing;
+        
+        for (int i = mn; i <= mx; i++) {
+            if (s.find(i) == s.end()) {
+                missing.push_back(i);
+            }
+        }
+        
+        return missing;
+    }
+};
