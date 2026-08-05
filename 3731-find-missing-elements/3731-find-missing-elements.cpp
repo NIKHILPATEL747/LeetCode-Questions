@@ -4,11 +4,14 @@ public:
         int mn = *min_element(nums.begin(), nums.end());
         int mx = *max_element(nums.begin(), nums.end());
         
-        unordered_set<int> s(nums.begin(), nums.end()); // fast lookup
-        vector<int> missing;
+        vector<bool> present(mx - mn + 1, false);
+        for (int num : nums) {
+            present[num - mn] = true;
+        }
         
+        vector<int> missing;
         for (int i = mn; i <= mx; i++) {
-            if (s.find(i) == s.end()) {
+            if (!present[i - mn]) {
                 missing.push_back(i);
             }
         }
