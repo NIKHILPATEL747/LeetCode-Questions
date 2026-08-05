@@ -6,7 +6,7 @@ public:
         int j=0;
         int sum=0;
         int len;
-        int minlen=INT_MAX;
+        int minlen=n+1;
         
         while(j<n)
         {
@@ -20,7 +20,7 @@ public:
             }
             j++;
         }
-        if(minlen==INT_MAX) return 0;
+        if(minlen==n+1) return 0;
 
         return minlen;
     }
