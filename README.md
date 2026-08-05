@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0041-first-missing-positive) |
+| [0209-minimum-size-subarray-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -56,6 +57,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -70,6 +72,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -84,5 +87,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
