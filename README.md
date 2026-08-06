@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 ## Hash Table
 |  |
 | ------- |
