@@ -48,6 +48,7 @@
 | [0002-add-two-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -104,4 +105,8 @@
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
