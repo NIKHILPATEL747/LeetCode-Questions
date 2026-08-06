@@ -41,6 +41,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
