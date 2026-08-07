@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -72,6 +73,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
