@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
