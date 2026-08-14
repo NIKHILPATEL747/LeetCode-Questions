@@ -40,6 +40,7 @@
 | [0038-count-and-say](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -121,6 +123,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
