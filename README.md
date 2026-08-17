@@ -59,6 +59,7 @@
 | [0149-max-points-on-a-line](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
