@@ -21,6 +21,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2239-find-closest-number-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2239-find-closest-number-to-zero) |
+| [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -60,6 +61,7 @@
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
+| [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
@@ -150,4 +152,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
