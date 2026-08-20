@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -189,4 +190,16 @@
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
