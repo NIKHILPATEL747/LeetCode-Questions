@@ -43,6 +43,7 @@
 | [0013-roman-to-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0089-gray-code) |
+| [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 ## Geometry
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -210,6 +213,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -219,6 +223,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
