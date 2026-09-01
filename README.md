@@ -208,6 +208,7 @@
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -228,12 +230,14 @@
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 ## DP on Trees
 |  |
 | ------- |
