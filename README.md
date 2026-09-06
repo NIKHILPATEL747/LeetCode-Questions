@@ -61,6 +61,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0089-gray-code) |
@@ -106,6 +107,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
