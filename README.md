@@ -215,6 +215,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
@@ -227,6 +228,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
@@ -241,6 +243,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
@@ -261,4 +264,12 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
