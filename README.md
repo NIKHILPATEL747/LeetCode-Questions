@@ -176,6 +176,7 @@
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0897-increasing-order-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -233,6 +235,7 @@
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -248,6 +251,7 @@
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -265,6 +269,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
