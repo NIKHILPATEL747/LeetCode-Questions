@@ -73,6 +73,7 @@
 | [0507-perfect-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
+| [1175-prime-arrangements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1175-prime-arrangements) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -201,14 +202,17 @@
 ## Primality Test
 |  |
 | ------- |
+| [1175-prime-arrangements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1175-prime-arrangements) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [1175-prime-arrangements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1175-prime-arrangements) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prime Number Sieve
 |  |
 | ------- |
+| [1175-prime-arrangements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1175-prime-arrangements) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Tree
 |  |
