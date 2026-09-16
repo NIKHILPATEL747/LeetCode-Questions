@@ -23,6 +23,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -79,6 +80,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -101,6 +103,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -194,6 +197,7 @@
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -289,4 +293,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
