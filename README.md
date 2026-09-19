@@ -76,6 +76,7 @@
 | [0836-rectangle-overlap](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1175-prime-arrangements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1175-prime-arrangements) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2485-find-the-pivot-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
 |  |
 | ------- |
