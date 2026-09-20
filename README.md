@@ -51,6 +51,7 @@
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -206,6 +207,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0067-add-binary) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [3498-reverse-degree-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Prime Factorization
 |  |
 | ------- |
