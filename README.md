@@ -21,6 +21,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2239-find-closest-number-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2239-find-closest-number-to-zero) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -81,6 +82,7 @@
 | [2235-add-two-integers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2485-find-the-pivot-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
