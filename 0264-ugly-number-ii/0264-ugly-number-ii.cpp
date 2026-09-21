@@ -1,22 +1,30 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-        priority_queue<long, vector<long>, greater<long>> pq;
-        unordered_set<long> seen;
+        vector<int> ugly(n);
+        ugly[0] = 1;  
         
-        pq.push(1);
-        seen.insert(1);
+        int i2 = 0, i3 = 0, i5 = 0;
+        int next2 = 2, next3 = 3, next5 = 5;
         
-        long ugly = 1;
-        for (int i = 0; i < n; i++) {
-            ugly = pq.top();
-            pq.pop();
+        for (int i = 1; i < n; i++) {
+            int nextUgly = min(next2, min(next3, next5));
+            ugly[i] = nextUgly;
             
-            if (seen.insert(ugly * 2).second) pq.push(ugly * 2);
-            if (seen.insert(ugly * 3).second) pq.push(ugly * 3);
-            if (seen.insert(ugly * 5).second) pq.push(ugly * 5);
+            if (nextUgly == next2) {
+                i2++;
+                next2 = ugly[i2] * 2;
+            }
+            if (nextUgly == next3) {
+                i3++;
+                next3 = ugly[i3] * 3;
+            }
+            if (nextUgly == next5) {
+                i5++;
+                next5 = ugly[i5] * 5;
+            }
         }
         
-        return (int)ugly;
+        return ugly[n-1];
     }
 };
