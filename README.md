@@ -19,6 +19,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1480-running-sum-of-1d-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2239-find-closest-number-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -109,6 +110,7 @@
 | [0264-ugly-number-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -122,6 +124,7 @@
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,6 +149,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
@@ -167,6 +171,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
