@@ -20,6 +20,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2239-find-closest-number-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2239-find-closest-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -54,6 +55,7 @@
 | [0168-excel-sheet-column-title](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
@@ -114,6 +116,7 @@
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
