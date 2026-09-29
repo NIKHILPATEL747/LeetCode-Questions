@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0209-minimum-size-subarray-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -167,6 +168,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -220,6 +222,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0221-maximal-square) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
