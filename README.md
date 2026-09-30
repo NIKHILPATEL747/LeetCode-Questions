@@ -91,6 +91,7 @@
 | [1175-prime-arrangements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1175-prime-arrangements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2235-add-two-integers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2235-add-two-integers) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2485-find-the-pivot-integer) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -202,6 +203,7 @@
 | [0149-max-points-on-a-line](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Euclidean Algorithm
 |  |
 | ------- |
