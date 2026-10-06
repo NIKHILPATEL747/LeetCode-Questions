@@ -8,6 +8,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
+| [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -227,6 +228,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0221-maximal-square) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -284,6 +286,7 @@
 | [0099-recover-binary-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
@@ -312,6 +315,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
@@ -371,4 +375,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
