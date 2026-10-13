@@ -16,6 +16,7 @@
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -304,6 +306,7 @@
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0897-increasing-order-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
@@ -331,6 +334,7 @@
 | [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -396,4 +400,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
