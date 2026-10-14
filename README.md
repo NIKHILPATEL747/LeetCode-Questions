@@ -81,6 +81,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
