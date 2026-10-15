@@ -82,6 +82,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -134,6 +135,7 @@
 | [0013-roman-to-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
@@ -173,6 +175,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -418,4 +421,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
