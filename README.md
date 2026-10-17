@@ -35,6 +35,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -55,6 +56,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -148,6 +150,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
