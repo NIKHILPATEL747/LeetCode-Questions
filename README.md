@@ -66,6 +66,7 @@
 | [0013-roman-to-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
@@ -97,6 +98,7 @@
 | [0012-integer-to-roman](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0089-gray-code) |
@@ -276,6 +278,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0067-add-binary) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3498-reverse-degree-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
