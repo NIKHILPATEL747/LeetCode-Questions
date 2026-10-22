@@ -113,6 +113,7 @@
 | [0836-rectangle-overlap](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1175-prime-arrangements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1175-prime-arrangements) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2235-add-two-integers) |
