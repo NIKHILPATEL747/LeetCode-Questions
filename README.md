@@ -19,6 +19,7 @@
 | [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1052-grumpy-bookstore-owner) |
@@ -73,6 +74,7 @@
 | [0168-excel-sheet-column-title](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
+| [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -151,6 +153,7 @@
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -368,6 +371,7 @@
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## DP on Trees
@@ -438,4 +442,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
