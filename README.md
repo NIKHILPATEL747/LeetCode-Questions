@@ -23,6 +23,7 @@
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1052-grumpy-bookstore-owner) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -274,6 +275,7 @@
 | [0221-maximal-square](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2614-prime-in-diagonal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2614-prime-in-diagonal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
@@ -373,6 +375,7 @@
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## DP on Trees
 |  |
