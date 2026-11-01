@@ -56,6 +56,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -96,6 +97,7 @@
 | [0141-linked-list-cycle](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -196,6 +198,7 @@
 | [0141-linked-list-cycle](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
@@ -436,6 +439,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -463,4 +467,8 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
