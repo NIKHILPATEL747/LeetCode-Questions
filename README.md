@@ -355,6 +355,7 @@
 | [0617-merge-two-binary-trees](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
@@ -388,6 +389,7 @@
 | [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
+| [0785-is-graph-bipartite](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0994-rotting-oranges) |
@@ -457,6 +459,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -470,9 +473,18 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0133-clone-graph) |
+| [0785-is-graph-bipartite](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0841-keys-and-rooms) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0148-sort-list) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
