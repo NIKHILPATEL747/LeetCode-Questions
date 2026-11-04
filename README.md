@@ -99,6 +99,7 @@
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -144,6 +145,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
@@ -273,6 +276,7 @@
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
