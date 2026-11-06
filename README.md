@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0149-max-points-on-a-line](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0149-max-points-on-a-line) |
 | [0200-number-of-islands](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0200-number-of-islands) |
@@ -149,6 +150,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0013-roman-to-integer) |
