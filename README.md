@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0029-divide-two-integers) |
