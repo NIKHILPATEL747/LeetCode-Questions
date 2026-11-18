@@ -90,6 +90,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
