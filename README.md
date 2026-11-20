@@ -127,6 +127,7 @@
 | [0168-excel-sheet-column-title](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0264-ugly-number-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
@@ -158,6 +159,7 @@
 | [0050-powx-n](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
