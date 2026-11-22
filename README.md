@@ -91,6 +91,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
