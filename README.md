@@ -27,6 +27,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -136,6 +137,7 @@
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1175-prime-arrangements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1175-prime-arrangements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -231,6 +233,7 @@
 | [0238-product-of-array-except-self](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -454,11 +457,13 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1845-seat-reservation-manager](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1845-seat-reservation-manager) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
