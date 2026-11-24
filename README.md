@@ -22,6 +22,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
+| [0875-koko-eating-bananas](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -197,6 +198,7 @@
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
