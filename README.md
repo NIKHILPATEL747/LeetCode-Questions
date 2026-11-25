@@ -67,6 +67,7 @@
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -87,6 +88,7 @@
 | [0067-add-binary](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0556-next-greater-element-iii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
 | [0856-score-of-parentheses](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
@@ -180,6 +182,7 @@
 | [0264-ugly-number-ii](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0752-open-the-lock](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0752-open-the-lock) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -211,6 +214,7 @@
 | [0089-gray-code](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/0389-find-the-difference) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NIKHILPATEL747/LeetCode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
